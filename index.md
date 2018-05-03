@@ -1,7 +1,7 @@
 ## Welcome
 
 ```markdown
-# root@canroot: |
+# root@canroot:
 
 
 
